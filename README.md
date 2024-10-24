@@ -1,4 +1,13 @@
+**Passo 1: Mapeamento do Esquema ER para Relacional**
+Identificar Entidades e Relacionamentos: A partir do esquema ER, identifique todas as entidades e seus relacionamentos. Exemplo:
 
+*Entidades: Cliente, Carro, Serviço.*
+*Relacionamentos: Cliente possui Carro, Carro recebe Serviço.*
+
+**Definição de Chaves Primárias e Estrangeiras:**
+
+- Cada entidade deve ter uma chave primária.
+*Os relacionamentos se transformam em chaves estrangeiras ou tabelas associativas, se necessário.*
 
 ### **O Script de Criação de Banco de Dados:**
 
